@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 %define	pname	Py2Play
 Summary:	Network game engine
 Summary(pl):	Sieciowy silnik gier
