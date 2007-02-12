@@ -1,6 +1,6 @@
 %define		pname	Py2Play
 Summary:	Network game engine
-Summary(pl):	Sieciowy silnik gier
+Summary(pl.UTF-8):   Sieciowy silnik gier
 Name:		python-Py2Play
 Version:	0.1.6
 Release:	1
@@ -17,7 +17,7 @@ Py2Play is a network game engine written in Python, and it rests on a
 Peer To Peer model (ala Napster) and not a client-server one, as it is
 usually done.
 
-%description -l pl
+%description -l pl.UTF-8
 Py2Play jest sieciowym silnikiem gier napisanym w Pythonie. Jest on
 zbudowany w oparciu o model Peer To Peer (tak jak Napster), a nie
 klient-serwer, tak jak jest to zazwyczaj.
