@@ -1,6 +1,6 @@
 %define		pname	Py2Play
 Summary:	Network game engine
-Summary(pl.UTF-8):   Sieciowy silnik gier
+Summary(pl.UTF-8):	Sieciowy silnik gier
 Name:		python-Py2Play
 Version:	0.1.6
 Release:	1
