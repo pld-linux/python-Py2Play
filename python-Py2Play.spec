@@ -3,7 +3,7 @@ Summary:	Network game engine
 Summary(pl.UTF-8):	Sieciowy silnik gier
 Name:		python-Py2Play
 Version:	0.1.6
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Games
 Source0:	http://oomadness.tuxfamily.org/downloads/%{pname}-%{version}.tar.gz
