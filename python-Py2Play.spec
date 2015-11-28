@@ -30,8 +30,7 @@ klient-serwer, tak jak jest to zazwyczaj.
 %install
 rm -rf $RPM_BUILD_ROOT
 
-%{__python} setup.py install \
-	--root=$RPM_BUILD_ROOT \
+%py_install \
 	--install-purelib=%{py_sitedir}
 
 %clean
