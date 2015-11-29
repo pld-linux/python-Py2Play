@@ -9,6 +9,7 @@ Group:		Applications/Games
 Source0:	http://oomadness.tuxfamily.org/downloads/%{pname}-%{version}.tar.gz
 # Source0-md5:	15f6bc003fa2da379fc93b32abe075b2
 URL:		http://oomadness.tuxfamily.org/en/py2play/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python-modules
 BuildRequires:	rpm-pythonprov
 Requires:	python-tkinter
